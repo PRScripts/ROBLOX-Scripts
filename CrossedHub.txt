@@ -1,3 +1,6 @@
+--This doesn't work right now. if you want, you can help me by adding my discord and sending your updated version of this.
+
+
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("CrossedHub", "Ocean")
 
