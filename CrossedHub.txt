@@ -1,4 +1,4 @@
---This doesn't work right now. if you want, you can help me by adding my discord and sending your updated version of this.
+--This doesn't work right now. if you want, you can help me by adding my discord and sending your updated version of this. (Edit: User Is Super#6166)
 
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
